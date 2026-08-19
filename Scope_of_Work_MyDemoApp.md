@@ -24,14 +24,16 @@ Functional and UI testing will be performed for the following features:
 2.	Product Catalog 
 3.	Add to Cart   
 4.	Place Order  
-5.	End-to-End purchase flow  
-A minimum of four bug reports will be created to demonstrate different severity levels. Each bug report will include, where applicable:
-•	Detailed steps to reproduce 
-•	Expected and actual results 
-•	Screenshots and/or screen recordings  
-•	Crash logs, if applicable  
-## Test Environment: 
-       Android device
+5.	End-to-End purchase flow   
+A minimum of four bug reports will be created to demonstrate different severity levels. Each bug report will include, where applicable: 
+•	Detailed steps to reproduce  
+•	Expected and actual results  
+•	Screenshots and/or screen recordings    
+•	Crash logs, if applicable
+    
+## Test Environment:  
+
+	   Android device
         Device: Samsung Galaxy S22
         OS: Android 16
 ## Deliverables:
