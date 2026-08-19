@@ -1,6 +1,6 @@
 
 	
-#####                                  SCOPE OF WORK (SAMPLE DOCUMENT)
+<h1 align="center">SCOPE OF WORK (SAMPLE DOCUMENT)</h1>
 
 ## Introduction:
 
