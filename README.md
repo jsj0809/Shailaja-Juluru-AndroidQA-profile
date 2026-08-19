@@ -7,4 +7,7 @@ This folder contains bug reports to demonstrate the manual testing skills for an
 |-----------|--------|--------|
 |[BUG-108](https://github.com/jsj0809/Shailaja-Juluru-Profile/blob/main/Mobile%20app%20Testing%20Samples/Android%20app%20testing%20files/Bug%20Reports/Bug-108_UI_elements_misalignment.md)|First horizontal products Price and Rating elements are not aligned on the products page|UI  
 [Bug-109](https://github.com/jsj0809/Shailaja-Juluru-Profile/blob/main/Mobile%20app%20Testing%20Samples/Android%20app%20testing%20files/Bug%20Reports/Bug-109_incorrect_screen_opens.md)|Cart screen opens by tapping on a specific product|Functional  
-[Bug-110](https://github.com/jsj0809/Shailaja-Juluru-Profile/blob/main/Mobile%20app%20Testing%20Samples/Android%20app%20testing%20files/Bug%20Reports/Bug-110_tap_bikelight_appcrashes.md)|App crashes by tapping on Sauce Labs Bike Light prodcut|Functional
+[Bug-110](https://github.com/jsj0809/Shailaja-Juluru-Profile/blob/main/Mobile%20app%20Testing%20Samples/Android%20app%20testing%20files/Bug%20Reports/Bug-110_tap_bikelight_appcrashes.md)|App crashes by tapping on Sauce Labs Bike Light product|Functional
+[Bug-111](https://github.com/jsj0809/Shailaja-Juluru-AndroidQA-profile/blob/main/Bug%20Reports/Bug-111_Expired_credit_%20card_issue.md)|Expired credit card details are accepted while placing an order|Functional
+
+
