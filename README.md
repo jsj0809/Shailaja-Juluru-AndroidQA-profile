@@ -1,4 +1,4 @@
-## Android App QA artifacts
+## Android App QA Artifacts
 
 I used Sauce Labs **MY DEMO APP** application (which is publicly available android app on GitHub) for this portfolio project to demonstrate software testing skills.The application contains various categories for testing  purposes and includes features that simulate real-world e-commerce scenarios.  
 
