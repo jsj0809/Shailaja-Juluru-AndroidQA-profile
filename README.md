@@ -1,5 +1,10 @@
-## Bug Reports
-This folder contains bug reports to demonstrate the manual testing skills for an android mobile app. I used Saucelabs "MY DEMO APP"(which is publicly available on GitHub) to create the bug reports. Each bug report is written as a separate markdown file.
+## Android App QA artifacts
+
+I used Sauce Labs **MY DEMO APP** application (which is publicly available android app on GitHub) for this portfolio project to demonstrate software testing skills.The application contains various categories for testing  purposes and includes features that simulate real-world e-commerce scenarios.  
+
+For this project, the e-commerce category is used to demonstrate functional and UI testing. 
+
+In this repository, I have included Scope of Work (SOW) document, selective sample bug reports, screenshots, screen recordings, and crash logs (if applicable) to demonstrate my approach to project documentation and bug reporting. Each bug report is written as a separate markdown file. 
 
 ## Bug Reports
 
@@ -9,5 +14,3 @@ This folder contains bug reports to demonstrate the manual testing skills for an
 [Bug-109](https://github.com/jsj0809/Shailaja-Juluru-Profile/blob/main/Mobile%20app%20Testing%20Samples/Android%20app%20testing%20files/Bug%20Reports/Bug-109_incorrect_screen_opens.md)|Cart screen opens by tapping on a specific product|Functional  
 [Bug-110](https://github.com/jsj0809/Shailaja-Juluru-Profile/blob/main/Mobile%20app%20Testing%20Samples/Android%20app%20testing%20files/Bug%20Reports/Bug-110_tap_bikelight_appcrashes.md)|App crashes by tapping on Sauce Labs Bike Light product|Functional
 [Bug-111](https://github.com/jsj0809/Shailaja-Juluru-AndroidQA-profile/blob/main/Bug%20Reports/Bug-111_Expired_credit_%20card_issue.md)|Expired credit card details are accepted while placing an order|Functional
-
-
