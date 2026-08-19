@@ -25,7 +25,9 @@ Functional and UI testing will be performed for the following features:
 3.	Add to Cart   
 4.	Place Order  
 5.	End-to-End purchase flow   
-A minimum of four bug reports will be created to demonstrate different severity levels. Each bug report will include, where applicable: 
+
+A minimum of four bug reports will be created to demonstrate different severity levels. Each bug report will include, where applicable:
+ 
 •	Detailed steps to reproduce  
 •	Expected and actual results  
 •	Screenshots and/or screen recordings    
@@ -36,18 +38,26 @@ A minimum of four bug reports will be created to demonstrate different severity 
 	   Android device
         Device: Samsung Galaxy S22
         OS: Android 16
+
 ## Deliverables:
+
 •	Scope of Work (SOW) document
 •	A set of bug reports (minimum of 4) 
+
 ## Out of Scope:
+
 Any items, features, or activities not explicitly identified in the In-scope section are considered out of scope for this demonstration project.
-## Assumptions:
-•	The application will remain accessible and testable throughout the testing activities.
-•	No major application changes will be introduced during testing activities.
-•	Required access to the application will be available throughout the testing
-•	The defined testing environment will be available for testing activities
-## Acceptance Criteria:
-Deliverables will be considered complete upon submission of the bug reports that meet the defined scope.
+
+## Assumptions:  
+
+•	The application will remain accessible and testable throughout the testing activities  
+•	No major application changes will be introduced during testing activities  
+•	Required access to the application will be available throughout the testing    
+•	The defined testing environment will be available for testing activities  
+
+## Acceptance Criteria: 
+
+Deliverables will be considered complete upon submission of the bug reports that meet the defined scope. 
 
 ### Note:
 This document is a sample Scope of Work created for portfolio and demonstration purposes only and does not represent an actual client agreement.
