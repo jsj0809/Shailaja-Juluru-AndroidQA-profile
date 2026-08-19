@@ -41,8 +41,8 @@ A minimum of four bug reports will be created to demonstrate different severity 
 
 ## Deliverables: 
 
-•	Scope of Work (SOW) document 
-•	A set of bug reports (minimum of 4)  
+•	Scope of Work (SOW) document   
+•	A set of bug reports (minimum of 4)    
 
 ## Out of Scope:
 
