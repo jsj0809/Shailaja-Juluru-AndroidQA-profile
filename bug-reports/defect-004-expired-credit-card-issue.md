@@ -33,5 +33,5 @@ App version: V.2.2.0-build 25
 High
 
 ### Attachments    
-[expiredcard_issue.mp4](https://github.com/jsj0809/Shailaja-Juluru-Profile/blob/main/Mobile%20app%20Testing%20Samples/Android%20app%20testing%20files/Bug%20Reports/expiredcard_issue.mp4)
+[expiredcard-issue.mp4](https://github.com/jsj0809/Shailaja-Juluru-Profile/blob/main/Mobile%20app%20Testing%20Samples/Android%20app%20testing%20files/Bug%20Reports/expiredcard_issue.mp4)
 
