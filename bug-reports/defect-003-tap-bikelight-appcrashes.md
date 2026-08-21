@@ -28,4 +28,4 @@ Critical
 ### Attachments    
 [saucelabbikelight_crash.mp4](https://github.com/jsj0809/Shailaja-Juluru-Profile/blob/main/Mobile%20app%20Testing%20Samples/Android%20app%20testing%20files/Bug%20Reports/saucelabbikelight_crash.mp4)  
 
-[saucelabbikelight_crashlog.txt](https://github.com/jsj0809/Shailaja-Juluru-Profile/blob/main/Mobile%20app%20Testing%20Samples/Android%20app%20testing%20files/Bug%20Reports/saucelabbikelight_crashlog.txt)  
+[saucelabsbikelight-crashlog.txt](https://github.com/jsj0809/shailaja-juluru-android-qa-profile/blob/main/bug-reports/saucelabsbikelight-crashlog.txt)  
