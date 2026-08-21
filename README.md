@@ -10,7 +10,7 @@ In this repository, I have included Scope of Work (SOW) document, selective samp
 
 |DEFECT ID | TITLE |Category|
 |-----------|--------|--------|
-|[BUG-108](https://github.com/jsj0809/Shailaja-Juluru-Profile/blob/main/Mobile%20app%20Testing%20Samples/Android%20app%20testing%20files/Bug%20Reports/Bug-108_UI_elements_misalignment.md)|First horizontal products Price and Rating elements are not aligned on the products page|UI  
-[Bug-109](https://github.com/jsj0809/Shailaja-Juluru-Profile/blob/main/Mobile%20app%20Testing%20Samples/Android%20app%20testing%20files/Bug%20Reports/Bug-109_incorrect_screen_opens.md)|Cart screen opens by tapping on a specific product|Functional  
-[Bug-110](https://github.com/jsj0809/Shailaja-Juluru-Profile/blob/main/Mobile%20app%20Testing%20Samples/Android%20app%20testing%20files/Bug%20Reports/Bug-110_tap_bikelight_appcrashes.md)|App crashes by tapping on Sauce Labs Bike Light product|Functional
-[Bug-111](https://github.com/jsj0809/Shailaja-Juluru-AndroidQA-profile/blob/main/Bug%20Reports/Bug-111_Expired_credit_%20card_issue.md)|Expired credit card details are accepted while placing an order|Functional
+|[defect-001](https://github.com/jsj0809/shailaja-juluru-android-qa-profile/blob/main/bug-reports/defect-001-ui-elements-misalignment.md)|First horizontal products Price and Rating elements are not aligned on the products page|UI  
+[defect-002](https://github.com/jsj0809/shailaja-juluru-android-qa-profile/blob/main/bug-reports/defect-002-incorrect-screen-opens.md)|Cart screen opens by tapping on a specific product|Functional  
+[defect-003](https://github.com/jsj0809/shailaja-juluru-android-qa-profile/blob/main/bug-reports/defect-003-tap-bikelight-appcrashes.md)|App crashes by tapping on Sauce Labs Bike Light product|Functional
+[defect-004](https://github.com/jsj0809/shailaja-juluru-android-qa-profile/blob/main/bug-reports/defect-004-expired-credit-card-issue.md)|Expired credit card details are accepted while placing an order|Functional
