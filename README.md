@@ -10,7 +10,7 @@ In this repository, I have included Scope of Work (SOW) document, selective samp
 
 |DEFECT ID | TITLE |Category|
 |-----------|--------|--------|
-|[defect-001](https://github.com/jsj0809/shailaja-juluru-android-qa-profile/blob/main/bug-reports/defect-001-UI-elements-misalignment.md)|First horizontal products Price and Rating elements are not aligned on the products page|UI  
+|[defect-001](https://github.com/jsj0809/shailaja-juluru-android-qa-profile/blob/main/bug-reports/defect-001-ui-elements-misalignment.md)|First horizontal products Price and Rating elements are not aligned on the products page|UI  
 [defect-002](https://github.com/jsj0809/shailaja-juluru-android-qa-profile/blob/main/bug-reports/defect-002-incorrect-screen-opens.md)|Cart screen opens by tapping on a specific product|Functional  
 [defect-003](https://github.com/jsj0809/shailaja-juluru-android-qa-profile/blob/main/bug-reports/defect-003-tap-bikelight-appcrashes.md)|App crashes by tapping on Sauce Labs Bike Light product|Functional
 [defect-004](https://github.com/jsj0809/shailaja-juluru-android-qa-profile/blob/main/bug-reports/defect-004-expired-credit-card-issue.md)|Expired credit card details are accepted while placing an order|Functional
