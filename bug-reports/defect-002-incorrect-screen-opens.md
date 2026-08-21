@@ -26,4 +26,4 @@ App version: V.2.2.0-build 25
 ### Severity  
 Medium  
 ### Attachments  
-[producttap_cartscreenappear.mp4](https://github.com/jsj0809/Shailaja-Juluru-Profile/blob/main/Mobile%20app%20Testing%20Samples/Android%20app%20testing%20files/Bug%20Reports/producttap_cartscreenappear.mp4)
+[producttap-cartscreen-appear.mp4](https://github.com/jsj0809/shailaja-juluru-android-qa-profile/blob/main/bug-reports/producttap-cartscreen-appear.mp4)
