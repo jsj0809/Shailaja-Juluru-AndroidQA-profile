@@ -19,9 +19,9 @@ App version: V.2.2.0-build 25
 ### Severity
 low
 ### Attachments
-[price_rating_elements_misaligned.png](https://github.com/jsj0809/Shailaja-Juluru-Profile/blob/main/Mobile%20app%20Testing%20Samples/Android%20app%20testing%20files/Bug%20Reports/price_rating_elements_misaligned.png)
+[price-rating-elements-misaligned.png](https://github.com/jsj0809/shailaja-juluru-android-qa-profile/blob/main/bug-reports/price-rating-elements-misaligned.png)
 
-[Price_ratingelements_misaligned.mp4](https://github.com/jsj0809/Shailaja-Juluru-Profile/blob/main/Mobile%20app%20Testing%20Samples/Android%20app%20testing%20files/Bug%20Reports/Price_ratingelements_misaligned.mp4)
+[Price-rating-elements-misaligned.mp4](https://github.com/jsj0809/Shailaja-Juluru-Profile/blob/main/Mobile%20app%20Testing%20Samples/Android%20app%20testing%20files/Bug%20Reports/Price_ratingelements_misaligned.mp4)
 
 
 
